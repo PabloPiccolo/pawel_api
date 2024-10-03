@@ -1,0 +1,21 @@
+{
+  "data":
+[
+{
+  "id":1,
+  "userName":"Pawel",
+  "petName": "Doris",
+  "petImage":"https://www.miesodlapsow.pl/uploads/blog/main/thumbnail/gallery_64f8473051f02-blog-2-1200x800.webp?lm=1704969619",
+  "isFriendly":true
+},
+  {
+    "id":2,
+  "userName":"Pawelek",
+  "petName": "Pimpek",
+  "petImage":"https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1rExa2.img?w=768&h=512&m=6&x=822&y=487&s=615&d=615",
+  "isFriendly":false
+  }
+  
+  
+]
+}
